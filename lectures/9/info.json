@@ -9,19 +9,19 @@
   "lectures": [
     {
       "title": "جلسه اول: توزیع نرمال ",
-      "streamLink": "https://www.aparat.com/video/video/embed/videohash/brpQN/vt/frame",
+      "streamLink": "https://www.youtube.com/embed/4MxmWy5XTUI?si=r3kt443BpCk43cn0",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/9/Lecture1.html",
       "description": "جلسه اول "
     },
     {
       "title": "جلسه دوم: تقریب توزیع دو جمله‌ای با توزیع نرمال",
-      "streamLink": "https://www.aparat.com/video/video/embed/videohash/J47dZ/vt/frame",
+      "streamLink": "https://www.youtube.com/embed/XueNcmqGgBc?si=F44Tbz-GuWl3twjM",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/9/Lecture2.html",
       "description": "جلسه دوم "
     },
     {
       "title": "جلسه سوم: توزیع نمایی",
-      "streamLink": "https://www.aparat.com/video/video/embed/videohash/GAu9I/vt/frame",
+      "streamLink": "https://www.youtube.com/embed/XIdOmoj3xdc?si=hNfPfnz_3kfUTleI",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/9/Lecture3.html",
       "description": "جلسه سوم "
     }
