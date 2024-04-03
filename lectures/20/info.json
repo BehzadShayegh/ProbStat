@@ -9,19 +9,19 @@
   "lectures": [
     {
       "title": "جلسه اول: قضیه حد مرکزی",
-      "streamLink": "https://www.youtube.com/watch?v=d8EEQc5_C9w&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=58",
+      "streamLink": "https://www.youtube.com/embed/d8EEQc5_C9w?si=FDw1X83r_1AC9n1z",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/20/Lecture1.html",
       "description": "جلسه اول "
     },
     {
       "title": "جلسه دوم: قانون اعداد بزرگ",
-      "streamLink": "https://www.youtube.com/watch?v=VEgA9QPMEdQ&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=59",
+      "streamLink": "https://www.youtube.com/embed/d8EEQc5_C9w?si=Lm4wj_od4Zwt_hA3",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/20/Lecture2.html",
       "description": "جلسه دوم "
     },
     {
       "title": "جلسه سوم: کاربردهای قضیه حد مرکزی",
-      "streamLink": "https://www.youtube.com/watch?v=oU6OuWEO5Ak&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=60",
+      "streamLink": "https://www.youtube.com/embed/oU6OuWEO5Ak?si=VQgYMQISVYweOTj6",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/20/Lecture3.html",
       "description": "جلسه سوم "
     }
