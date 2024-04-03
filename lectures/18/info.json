@@ -9,13 +9,13 @@
   "lectures": [
     {
       "title": "جلسه اول: امید ریاضی شرطی",
-      "streamLink": "https://www.youtube.com/watch?v=OkywNQzDaOA&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=52",
+      "streamLink": "https://www.youtube.com/embed/OkywNQzDaOA?si=K0I1ad5RJfwEvP_k",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/18/Lecture1.html",
       "description": "جلسه اول "
     },
     {
       "title": "جلسه دوم: خواص امید ریاضی شرطی",
-      "streamLink": "https://www.youtube.com/watch?v=w8s2G4kTIbw&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=53",
+      "streamLink": "https://www.youtube.com/embed/w8s2G4kTIbw?si=4K925L2Mdw75oLVN",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/18/Lecture2.html",
       "description": "جلسه دوم "
     }
