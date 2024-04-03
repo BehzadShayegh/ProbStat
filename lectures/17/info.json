@@ -9,19 +9,19 @@
   "lectures": [
     {
       "title": "جلسه اول: توابعی از دو متغیر تصادفی",
-      "streamLink": "https://www.youtube.com/watch?v=uJgQ8MsMkAk&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=49",
+      "streamLink": "https://www.youtube.com/embed/uJgQ8MsMkAk?si=Hc24kFP0cCPoYNpW",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/17/Lecture1.html",
       "description": "جلسه اول "
     },
     {
       "title": "جلسه دوم: دو تابع از دو متغیر تصادفی",
-      "streamLink": "https://www.youtube.com/watch?v=gJyrUuR9XW8&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=50",
+      "streamLink": "https://www.youtube.com/embed/gJyrUuR9XW8?si=bOXOr66CHPOamtNg",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/17/Lecture2.html",
       "description": "جلسه دوم "
     },
     {
       "title": "جلسه سوم: متغیرهای تصادفی مشترکا نرمال",
-      "streamLink": "https://www.youtube.com/watch?v=IWZPaAvRuc8&list=PLdSslhDhrVc47zM1fgy1WEPs7-sC6JVUG&index=51",
+      "streamLink": "https://www.youtube.com/embed/IWZPaAvRuc8?si=48LDH2imk3sBes56",
       "file": "https://openbookshelf.github.io/ProbStat/lectures/17/Lecture3.html",
       "description": "جلسه سوم "
     }
